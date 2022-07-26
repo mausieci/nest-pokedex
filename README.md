@@ -20,6 +20,10 @@
  ```
  docker-compose up -d
  ```
+ 5. Reconstruir la BD con el modulo de semilla
+ ```
+ http://localhost:3000/api/v1/seed
+ ```
 
  ## Stack usado
  * MongoDB
